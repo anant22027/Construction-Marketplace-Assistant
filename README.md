@@ -207,11 +207,3 @@ To evaluate the system, consider:
 7. What are the insulation R-value requirements?
 8. What electrical standards must be followed?
 
-## License
-
-This project is provided as-is for evaluation purposes.
-
-## Contact
-
-For questions or issues, please refer to the repository issues page.
-
