@@ -1,0 +1,20 @@
+FREQUENTLY ASKED QUESTIONS - CONSTRUCTION MARKETPLACE
+
+Q: What factors affect construction project delays?
+A: Construction project delays can be caused by several factors including adverse weather conditions, delays in material delivery, labor shortages, permit and approval delays from local authorities, unexpected site conditions such as soil issues or archaeological findings, design changes, and contractor scheduling conflicts. Weather-related delays are the most common, especially in regions with seasonal variations.
+
+Q: How long does a typical residential construction project take?
+A: A typical single-family home construction project takes 6-9 months from groundbreaking to completion, assuming no major delays. This timeline includes site preparation (2-3 weeks), foundation (2-3 weeks), framing (3-4 weeks), MEP installation (3-4 weeks), interior finishing (6-8 weeks), and final inspections (1-2 weeks). Commercial projects typically take 12-24 months depending on size and complexity.
+
+Q: What permits are required for construction projects?
+A: Required permits vary by location but typically include building permits, electrical permits, plumbing permits, HVAC permits, and sometimes environmental permits. For commercial projects, additional permits may be required for fire safety, accessibility compliance, and zoning. Permit processing times range from 2-8 weeks depending on the jurisdiction.
+
+Q: How are construction costs estimated?
+A: Construction costs are estimated based on square footage, material costs, labor rates, equipment rental, permits and fees, contractor overhead and profit margins, and contingency allowances (typically 10-15%). Material costs can fluctuate based on market conditions. Labor costs vary by region and trade specialization.
+
+Q: What is included in a construction contract?
+A: A construction contract should include project scope and specifications, timeline and milestones, payment schedule, change order procedures, warranty terms, dispute resolution mechanisms, insurance requirements, and safety protocols. Contracts should clearly define responsibilities of all parties involved.
+
+Q: How do I handle change orders during construction?
+A: Change orders must be documented in writing and approved by both the client and contractor before work begins. The change order should specify the work to be performed, materials required, labor costs, timeline impact, and revised total cost. Verbal agreements are not sufficient. All change orders should be tracked in the project management system.
+

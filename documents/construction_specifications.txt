@@ -1,0 +1,34 @@
+CONSTRUCTION SPECIFICATIONS AND STANDARDS
+
+MATERIAL SPECIFICATIONS
+
+Concrete: All structural concrete must meet ASTM C33 standards with minimum compressive strength of 3,000 PSI for foundations and 4,000 PSI for structural elements. Concrete must be tested at 7 and 28 days. Admixtures must be approved by the project engineer.
+
+Steel Reinforcement: Rebar must meet ASTM A615 Grade 60 specifications. All rebar must be free of rust, oil, and other contaminants. Spacing and placement must follow structural drawings exactly.
+
+Lumber: Framing lumber must be grade-stamped and meet applicable building codes. Pressure-treated lumber is required for all ground contact applications. Moisture content should not exceed 19% for framing lumber.
+
+Insulation: Minimum R-values: R-38 for attic, R-21 for walls, R-10 for floors. Insulation must be installed without gaps or compression. Vapor barriers must be installed on the warm side of insulation.
+
+Roofing: Asphalt shingles must be Class A fire-rated with minimum 30-year warranty. Underlayment must be installed according to manufacturer specifications. Flashing must be installed at all roof penetrations and transitions.
+
+BUILDING STANDARDS
+
+Foundation Requirements: Foundations must extend below the frost line (minimum 36 inches in most regions). Footings must be at least 12 inches wide and 8 inches thick. Foundation walls must be waterproofed and include proper drainage.
+
+Framing Standards: Stud spacing must be 16 inches on center for load-bearing walls, 24 inches for non-load-bearing. Headers must be sized according to span tables. All framing must be plumb, level, and square within 1/4 inch tolerance.
+
+Electrical Standards: All electrical work must comply with National Electrical Code (NEC). Minimum service capacity: 200 amps for residential, 400 amps for commercial. GFCI protection required in bathrooms, kitchens, and outdoor outlets. AFCI protection required in bedrooms.
+
+Plumbing Standards: All plumbing must comply with International Plumbing Code (IPC). Water supply lines must be pressure tested at 100 PSI. Drain lines must be tested for leaks. Hot water systems must maintain minimum 120°F at fixtures.
+
+HVAC Requirements: HVAC systems must be sized according to Manual J calculations. Minimum SEER rating: 14 for cooling, 80% AFUE for heating. Ductwork must be sealed and insulated. Systems must be balanced and commissioned before occupancy.
+
+INSPECTION REQUIREMENTS
+
+Pre-construction: Site survey, soil testing, utility location marking required.
+
+During Construction: Foundation inspection, framing inspection, MEP rough-in inspection, insulation inspection, final inspection.
+
+Documentation: All inspections must be documented with photos and inspection reports. Certificates of occupancy require all inspections to be passed and documentation submitted to building department.
+
