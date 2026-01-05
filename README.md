@@ -201,7 +201,7 @@ To evaluate the system, consider:
 1. What factors affect construction project delays?
 2. What is the minimum compressive strength for foundation concrete?
 3. How are change orders handled during construction?
-4. What safety equipment is mandatory on construction sites?
+4. What safety equipment is mandatory on construction site?
 5. What is the typical timeline for residential construction?
 6. What permits are required for construction projects?
 7. What are the insulation R-value requirements?
